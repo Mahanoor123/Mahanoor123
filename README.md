@@ -2,13 +2,17 @@
 <h1 align="center">I am Mahanoor khan</h1>
 <h3 align="center">I am frontend Web Developer having the experience of UI UX Design. I have done my bachelors in Information Technology and now working on improving my skills by practical implementation of learning.</h3>
 
+<img align="right" src="https://i.pinimg.com/originals/f4/46/22/f4462216f52bfa5ffb285b4a17e5f71b.gif">
+
+- Passionate learner
+
 - I’m currently working on **"Online Tutors Academy" project**
 
-- 🌱 I’m currently learning **Full stack Web Development**
+- I’m currently learning **Full stack Web Development**
 
 - Ask me about **Figma, Html, Css**
 
-- How to reach me **maahiishah1019@gmail.com**
+- visit me as **maahiishah1019@gmail.com**
 
 - Fun fact **I enjoy new and creative business ideas**
 
