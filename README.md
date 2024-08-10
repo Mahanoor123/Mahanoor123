@@ -1,3 +1,4 @@
+![logo](https://github.com/Mahanoor123/Mahanoor123/blob/main/github-banner.png)
 <h1 align="center">I am Mahanoor khan</h1>
 <h3 align="center">I am frontend Web Developer having the experience of UI UX Design. I have done my bachelors in Information Technology and now working on improving my skills by practical implementation of learning.</h3>
 
