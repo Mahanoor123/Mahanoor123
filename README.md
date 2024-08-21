@@ -4,7 +4,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/f4/46/22/f4462216f52bfa5ffb285b4a17e5f71b.gif">
 
-<p>All content presenton </p> "https://nooremaahdesigns.my.canva.site/"
+<p>All content present on </p> "https://nooremaahdesigns.my.canva.site/"
 
 - Passionate learner
 
